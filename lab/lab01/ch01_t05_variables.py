@@ -1,2 +1,2 @@
-todays_date = "2026/0908"
-current_exercise=5
+todays_date = "2026/09/08"
+current_exercise = 5
