@@ -11,5 +11,5 @@ september_rainfall = 5.16
 october_rainfall = 7.20
 november_rainfall = 5.06
 december_rainfall = 4.06
-September to December rainfall=5.16+7.20+5.06+4.06
-annual_rainfall = s
+September to December rainfall = 5.16+7.20+5.06+4.06
+annual_rainfall = September to December rainfall
