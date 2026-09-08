@@ -1,2 +1,2 @@
-product = 100/50
+product = 10050
 emainder = 1398%11
