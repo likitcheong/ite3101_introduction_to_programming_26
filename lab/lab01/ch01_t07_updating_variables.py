@@ -14,4 +14,4 @@ annual_rainfall += october_rainfall
 november_rainfall = 5.06
 annual_rainfall += november_rainfall
 december_rainfall = 4.06
-annual_rainfall
+annual_rainfall += 
