@@ -1,1 +1,2 @@
-product=    
+product= 100/50
+  
