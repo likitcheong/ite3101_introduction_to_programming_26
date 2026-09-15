@@ -1,1 +1,1 @@
-skill_completed= str()
+skill_completed = "Python Syntax"
