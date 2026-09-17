@@ -13,3 +13,6 @@ So if you wanted "Y", you could just type
 fifth_letter = ""
 
 print(fifth_letter)
+
+fifth_letter = "MONTY"[4]
+print(fifth_letter)
