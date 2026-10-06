@@ -1,9 +1,5 @@
-bool_one = None
-
-bool_two = None
-
-bool_three = None
-
-bool_four = None
-
-bool_five = None
+bool_one = True
+bool_two = True
+bool_three = False
+bool_four = True
+bool_five = False
