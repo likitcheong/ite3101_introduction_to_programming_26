@@ -1,7 +1,7 @@
 # Use boolean expressions as appropriate on the lines below!
 
 # Make me false!
-bool_one = True and fa
+bool_one = True and False
 
 # Make me true!
 bool_two = None
