@@ -7,4 +7,4 @@ def fizz_count(x:List[str]):
             count +=1
     return count 
 
-print(f)
+print(fizz_count)
