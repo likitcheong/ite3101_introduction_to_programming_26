@@ -13,4 +13,4 @@ bool_three = 8>=12
 bool_four = 6>=6
 
 # Make me true!
-bool_five = None
+bool_five = 
