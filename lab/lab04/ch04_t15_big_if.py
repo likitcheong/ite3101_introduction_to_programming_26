@@ -1,14 +1,14 @@
 # Complete the if and elif statements!
-def grade_converter(grade: int) -> str:
-    if None:
+def grade_converter(grade):
+    if grade >= 90:
         return "A"
-    elif None:
+    elif grade >= 80:  # 80 到 89
         return "B"
-    elif None:
+    elif grade >= 70:  # 70 到 79
         return "C"
-    elif None:
+    elif grade >= 65:  # 65 到 69
         return "D"
-    else:
+    else:              # 65 以下
         return "F"
 
 
