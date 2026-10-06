@@ -4,13 +4,13 @@
 bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
 
 # Make me true!
-bool_two = not True and True
+bool_two = None
 
 # Make me false!
-bool_three = False or True and False
+bool_three = None
 
 # Make me true!
-bool_four = not False or False
+bool_four = None
 
 # Make me true!
-bool_five = True and not False
+bool_five = None
