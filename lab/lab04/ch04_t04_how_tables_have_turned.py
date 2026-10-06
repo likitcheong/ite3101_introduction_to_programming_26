@@ -12,4 +12,4 @@ bool_three = 100 != 99
 bool_four = 7 <= 6
 
 # Make me true!
-bool_five = None
+bool_five = 50 >= 50
