@@ -4,7 +4,7 @@
 bool_one = True and False
 
 # Make me true!
-bool_two = 10
+bool_two = 10>=2
 
 # Make me false!
 bool_three = None
