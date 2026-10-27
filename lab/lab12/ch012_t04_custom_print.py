@@ -4,4 +4,4 @@ for i in range(5):
 
 print(board)
 
-def print_board(board_in:list)
+def print_board(board_in:list[list])
