@@ -19,4 +19,4 @@ def random_Col(board: list[list[str]]):
     return randint(0, len(board)-1)
 
 
-ran
+random_row
