@@ -5,4 +5,5 @@ for i in range(5):
 print(board)
 
 def print_board(board_in:list[list[str]]):
-    for row in range board_in
+    for row in range board_in:
+        
