@@ -6,5 +6,5 @@ print(board)
 
 def print_board(board_in:list[list[str]]):
     for row in  board_in:
-        
+        print(row)
         
