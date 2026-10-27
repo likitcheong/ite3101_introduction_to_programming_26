@@ -20,4 +20,4 @@ def random_Col(board: List[List[str]]) -> int:
 
 
 random_row(board)
-random_row(board)
+random_Col(board)
