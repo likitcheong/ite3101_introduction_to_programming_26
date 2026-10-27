@@ -15,7 +15,7 @@ def print_board(board_in: List[List[str]]) -> None:
 def random_row(board: list[list[str]]):
     return randint(0, len(board)-1)
 
-def random_Col(board: list[list[str]]):
+def random_Col(board: List[list[str]]):
     return randint(0, len(board)-1)
 
 
