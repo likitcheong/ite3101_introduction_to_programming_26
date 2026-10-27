@@ -4,4 +4,4 @@ for i in range(5):
 
 print(board)
 
-def print_bora
+def print_borad
