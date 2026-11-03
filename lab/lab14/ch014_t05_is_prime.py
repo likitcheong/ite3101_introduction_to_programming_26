@@ -4,3 +4,4 @@ def is_prime(x:it)->int:
     else:
         for n in range(2,x-1)
         if x % n == 0:
+            
