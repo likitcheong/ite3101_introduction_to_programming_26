@@ -1,1 +1,1 @@
-def factorial(x)
+def factorial(x:int)
