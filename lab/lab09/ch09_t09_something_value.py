@@ -22,5 +22,5 @@ for key in prices:
     total += prices[key] * stock[key]
 
 # Print the final total outside the loop
-print(total
+print(total)
 
