@@ -11,13 +11,6 @@ stock = {
     "pear": 15,
 }
 
-for key in prices:
-    print(key)
-    print("price: %s" % prices[key])
-    print("stock: %s" % stock[key])
-
-
-
 total = 0
 for key in prices:
     # Print the item details (Expected by the grader)
@@ -29,4 +22,5 @@ for key in prices:
     total += prices[key] * stock[key]
 
 # Print the final total outside the loop
-print(total)
+print(total
+
