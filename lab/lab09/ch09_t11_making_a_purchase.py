@@ -18,7 +18,6 @@ prices = {
 def compute_bill(food):
     total = 0
     for item in food:
-        if stock[item] > 0:
-            total += prices[item]
-            stock[item] -= 1
+        # Just add the price, no stock checking yet!
+        total += prices[item]
     return total
