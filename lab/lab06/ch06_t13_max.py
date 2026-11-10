@@ -1,5 +1,5 @@
 # Set maximum to the max value of any set of numbers on line 3!
 
-maximum = max(50.2,32.5 , 32.2)
+maximum = max(510.5,32.5 , 32.2)
 
 print(maximum)
