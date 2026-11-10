@@ -26,7 +26,7 @@ for key in prices:
     total += item_value
 
 # 6. Finally, outside your loop, print the grand total
-print(total)
+print(total
 
 
 
