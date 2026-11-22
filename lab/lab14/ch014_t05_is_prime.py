@@ -4,4 +4,4 @@ def is_prime(x: int) -> bool:
     for n in range(2, x):
         if x % n == 0:
             return False
-    return Tru
+    return True
