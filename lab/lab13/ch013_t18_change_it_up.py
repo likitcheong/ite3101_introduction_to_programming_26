@@ -6,4 +6,4 @@ for f in fruits:
         print('A tomato is not a fruit!')  # (It actually is.)
     print('A', f)
 else:
-    print('A fine selection of fruits!'
+    print('A fine selection of fruits!')
