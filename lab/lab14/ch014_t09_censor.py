@@ -6,4 +6,4 @@ def censor(text: str, word: str) -> str:
             censored.append("*" * len(word))
         else:
             censored.append(w)
-    return " ".join(censored)
+    return " ".join(censored
