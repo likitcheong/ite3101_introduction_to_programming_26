@@ -5,4 +5,4 @@ def median(numbers):
     if n % 2 == 1:
         return sorted_nums[mid]
     else:
-        return (sorted_nums[mid - 1] + sorted_nums[mid]) / 2.0
+        return (sorted_nums[mid - 1] + sorted_nums[mid]) / 2.
