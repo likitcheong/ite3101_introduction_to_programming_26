@@ -5,4 +5,4 @@ def list_extender(lst):
     return lst
 
 
-print(list_extender(n)
+print(list_extender(n))
