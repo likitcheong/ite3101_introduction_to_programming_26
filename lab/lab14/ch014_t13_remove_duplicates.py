@@ -3,4 +3,4 @@ def remove_duplicates(items):
     for item in items:
         if item not in result:
             result.append(item)
-    return result
+    return resul
