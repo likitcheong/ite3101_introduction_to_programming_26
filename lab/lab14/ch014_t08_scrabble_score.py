@@ -9,4 +9,4 @@ def scrabble_score(word: str) -> int:
     total = 0
     for ch in word.lower():
         total += score[ch]
-    return tota
+    return total
