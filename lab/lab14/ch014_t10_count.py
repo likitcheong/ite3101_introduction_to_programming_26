@@ -3,4 +3,4 @@ def count(sequence, item) -> int:
     for element in sequence:
         if element == item:
             total += 1
-    return total
+    return tota
